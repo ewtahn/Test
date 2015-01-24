@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ertert dfdfdfdfg
+=======
+ertert 
+>>>>>>> parent of ca0c613... 24
